@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb-dev.reedauniverse.online # submit your host
+REDIS_HOST: redis-dev.reedauniverse.online
+MYSQL_HOST: mysql-dev.reedauniverse.online
+RABBITMQ_HOST: rabbitmq-dev.reedauniverse.online
+CATALOGUE_HOST: catalogue-dev.reedauniverse.online
+USER_HOST: user-dev.reedauniverse.online
+CART_HOST: cart-dev.reedauniverse.online
+SHIPPING_HOST: shipping-dev.reedauniverse.online
+PAYMENT_HOST: payment-dev.reedauniverse.online
+DISPATCH_HOST: dispatch-dev.reedauniverse.online
